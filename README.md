@@ -48,7 +48,6 @@ The `EOF` command is used to terminate the console.  Alternatively, Ctrl+D may b
 This project exists because of the following contributors:<br />
 
 Dennis Agbemenu<br />
-<a href="https://github.com/mdallen5393"><img src="https://avatars.githubusercontent.com/u/92639333?v=4"></a>
 
 Zach Gamble<br />
 
