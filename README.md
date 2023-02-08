@@ -5,7 +5,7 @@
 
 ## <center> Purpose
 
-This project was assigned to us by Holberton School Tulsa. It is a simple command interpreter to manage the objects used in the AirBnB clone project by:
+This project was assigned to us by Holberton School in Tulsa. It is a simple command interpreter to manage the objects used in the AirBnB clone project by:
 - Allowing for the creation of new objects.
 - Allows retrieval of an object from a file, a database, etc.
 - Allows operations to be performed on objects
